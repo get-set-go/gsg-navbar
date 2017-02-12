@@ -10,7 +10,7 @@ import NavbarBrand from './GSGNavbarBrand.jsx';
 import NavbarForm from './GSGNavbarForm.jsx';
 import NavbarNavs from './GSGNavbarNavs.jsx';
 
-export default class GSGNavbarDropdown extends React.Component {
+export default class GSGNavbar extends React.Component {
   constructor(props) {
     super(props);
   }
