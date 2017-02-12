@@ -1,3 +1,4 @@
+import '../node_modules/gsg-common-style/less/forms/index.less';
 import '../node_modules/gsg-common-style/less/navbar/index.less';
 
 import React from 'react';

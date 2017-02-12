@@ -35,7 +35,7 @@
   "homepage": "https://github.com/get-set-go/gsg-navbar#readme",
   "dependencies": {
     "classnames": "^2.2.5",
-    "gsg-common-style": "git+https://github.com/get-set-go/gsg-common-style.git",
+    "gsg-common-style": "https://github.com/get-set-go/gsg-common-style.git",
     "object-assign": "^4.1.0",
     "react": "^15.4.1",
     "react-dom": "^15.4.1"

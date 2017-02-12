@@ -10,7 +10,7 @@ export default class GSGNavbarDropdown extends React.Component {
 
   render() {
     return(
-
+      <div></div>
     );
   }
 };
