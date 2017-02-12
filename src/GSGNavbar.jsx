@@ -16,15 +16,13 @@ export default class GSGNavbar extends React.Component {
   }
 
   render() {
+    console.log(this.props);
+    console.log(this.props.children);
+
     return(
       <nav className="navbar navbar-default">
         <div className="container-fluid">
-          <NavbarBrand />
-
           <div className="collapse navbar-collapse">
-            <NavbarNavs />
-            <NavbarForm />
-            <NavbarNavs isOnRight={true}/>
           </div>
         </div>
       </nav>
