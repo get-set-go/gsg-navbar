@@ -17,7 +17,7 @@ export default class GSGNavbarBrand extends React.Component {
           <span className="icon-bar"></span>
           <span className="icon-bar"></span>
         </button>
-        <a className="navbar-brand" href="#">Brand</a>
+        <a className="navbar-brand" href={this.props.linkTo}>{this.props.title}</a>
       </div>
     );
   }
